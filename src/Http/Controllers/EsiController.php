@@ -20,6 +20,4 @@ class EsiController extends Controller
 
         return response()->view($esiTags[$tag]);
     }
-
-
 }
