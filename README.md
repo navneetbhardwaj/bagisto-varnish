@@ -19,7 +19,8 @@ This package integrates **Varnish Cache** with Bagisto to boost site performance
 
 ## 🔄 Request Flow
 
-![Request Flow Diagram](9f5170cc-b278-4eba-98a4-c63dc0b79c2c.png)
+<img width="1536" height="474" alt="image" src="https://github.com/user-attachments/assets/c0f2186d-6f73-47d8-a26e-c6f49cafa983" />
+
 
 **Explanation**:
 
